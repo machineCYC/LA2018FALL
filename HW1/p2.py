@@ -5,7 +5,6 @@ from graph_gen import *
 def has_cycle(sets):
     # return True if the graph has cycle; return False if not
     graph_rep = np.array(sets)
-    # graph_rep = np.array([[0, 0, 1, 0], [1, 0, 0, 0], [0, 1, 0, 0], [0, 1, 0, 0]])
     
     graph_rep_copy = graph_rep.copy()
     nbr_nodes = graph_rep.shape[0]
