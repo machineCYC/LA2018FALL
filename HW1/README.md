@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1: Cycle Detection
 
 ## Purpose:
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-希望透過列運算和矩陣相乘來解決一些小問題
+希望透過列運算和矩陣相乘來偵測 graph 是否有 cycle
 
 - Problem 1:  
 主要是利用列運算來偵測 graph 中是否有 cycle。具體過程如下:  
