@@ -25,15 +25,15 @@
     左下圖為原始訊號，右下圖為遠使訊號經過 1000 個 cosine 波行分解後，每個波行對應到的強度 (頻率)，其中兩個波平率特別強，分別是第 20 個和第 200 個
 
     <figure class="half">
-        <img src="test_wave.png">
-        <img src="test_freq.png">
+        <img src="test_wave.png" width="400">
+        <img src="test_freq.png" width="400">
     </figure>  
 
     左下圖為第 20 個 cosine 波的圖形，右下圖為第 200 個 cosine 波的圖形
 
     <figure class="half">
-        <img src="test_wave_20.png">
-        <img src="test_wave_200.png">
+        <img src="test_wave_20.png" width="400">
+        <img src="test_wave_200.png" width="400">
     </figure>
 
 2. 針對每個人的訊號資料:
@@ -43,15 +43,15 @@
     左下圖為原始訊號，右下圖為遠使訊號經過 1000 個 cosine 波行分解後，每個波行對應到的強度 (頻率)，其中五個波平率特別強
 
     <figure class="half">
-        <img src="homework_wave.png">
-        <img src="homework_freq.png">
+        <img src="homework_wave.png" width="400">
+        <img src="homework_freq.png" width="400">
     </figure>
 
     根據作業要求將第一個和第三個特別強的波行畫出來，左下圖為第 1 個 cosine 波的圖形，右下圖為第 3 個 cosine 波的圖形
 
     <figure class="half">
-        <img src="homework_wave_242.png">
-        <img src="homework_wave_273.png">
+        <img src="homework_wave_42.png" width="400">
+        <img src="homework_wave_273.png" width="400">
     </figure>
 
 ## Reference
