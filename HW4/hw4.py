@@ -37,7 +37,7 @@ def cal_rank(t, d = 0.85, max_iterations = 1000, alpha = 0.001):
     # TODO
     nbr_nodes = t.shape[1]
     R = np.random.rand(nbr_nodes, 1)
-
+    R = R / np.linalg.norm(R, 1)
     R_zeros = np.ones(shape=(nbr_nodes, 1), dtype=float) / nbr_nodes
 
     nbr_iter = 0
