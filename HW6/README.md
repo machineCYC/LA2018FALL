@@ -39,7 +39,7 @@
   這個部份針對圖片 G channel 進行 SVD，並對 <a href="https://www.codecogs.com/eqnedit.php?latex=\Sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Sigma" title="\Sigma" /></a> 對角線中前 5 個　<a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a>　**個別**還原圖片，如下圖：
   
   <figure class="half">
-      <img src="image/image1.png">
+      <img src="image\image1.png">
   </figure>  
 
   如下圖，由上至下，左至右分別為對角線第一個　<a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a>　，第二個 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a> ...，最後一張為前5個 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a> 所還原的照片。
