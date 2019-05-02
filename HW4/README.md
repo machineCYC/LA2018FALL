@@ -14,11 +14,11 @@ Page rank 其實就是要解 <img src="https://latex.codecogs.com/gif.latex?Ax=x
 
 Power method 其實就是要找到一個 <img src="https://latex.codecogs.com/gif.latex?x^{*}" title="x^{*}" /> 使得 <img src="https://latex.codecogs.com/gif.latex?x^{*}=Mx^{*}" title="x^{*}=Mx^{*}" /> 其中 <img src="https://latex.codecogs.com/gif.latex?\left&space;\|&space;x^{*}&space;\right&space;\|_{1}=1" title="\left \| x^{*} \right \|_{1}=1" />。透過跌代的方式找出解，作法如下圖
 
-![](image/image2.png)
+![](image/Image2.png)
 
 而 Power method 這個方法的期始值並不影響最後的結果，證明如下:其中 <img src="https://latex.codecogs.com/gif.latex?N^{*}" title="N^{*}" /> 為上述的 S，R 為上述的 x
 
-![](image/image1.png)
+![](image/Image1.png)
 
 ## Reference
 
