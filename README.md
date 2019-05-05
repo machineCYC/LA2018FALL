@@ -13,3 +13,5 @@ The detail of each homework is in the below.
 [HW4-Page Rank](https://github.com/machineCYC/LA2018FALL/tree/master/HW4)
 
 [HW5-Linear Regression For PM2.5 Prediction](https://github.com/machineCYC/LA2018FALL/tree/master/HW5)
+
+[HW6-Singular Value Decomposition](https://github.com/machineCYC/LA2018FALL/tree/master/HW6)
